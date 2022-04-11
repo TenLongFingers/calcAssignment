@@ -29,6 +29,6 @@ reader.question("What would you like to calculate?", function(input){
 		console.log(Math.sqrt(num1));
 	}
 
-	reader.close()
+	reader.close();
 
 });
